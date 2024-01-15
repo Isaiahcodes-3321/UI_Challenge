@@ -4,23 +4,23 @@ This project is a UI challenge, designed purely for the purpose of practicing an
 
 ## App Screenshot
 
-![App Screenshot](challenge_image/splash2.png)
+![App Screenshot](readmeImage/Splash.jpg)
 *Splash Screen*
 
-![Screenshot 1](challenge_image/ReadmeImage/onboarding.jpg)
+![Screenshot 1](readmeImage/onboarding.jpg)
 *Onboarding*
 
-![Screenshot 2](challenge_image/ReadmeImage/home.jpg)
+![Screenshot 2](readmeImage/home.jpg)
 *Home page*
 
-![Screenshot 2](challenge_image/ReadmeImage/lesson.jpg)
+![Screenshot 2](readmeImage/lesson.jpg)
 *Lesson Page*
 
-![Screenshot 2](challenge_image/ReadmeImage/exercise.jpg)
+![Screenshot 2](readmeImage/exercise.jpg)
 *Exercise Page*
 
-![Screenshot 2](challenge_image/ReadmeImage/game.jpg)
+![Screenshot 2](readmeImage/game.jpg)
 *Game Page*
 
-![Screenshot 2](challenge_image/ReadmeImage/chat.jpg)
+![Screenshot 2](readmeImage/chat.jpg)
 *Chat Page*
