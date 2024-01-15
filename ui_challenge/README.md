@@ -4,7 +4,7 @@ This project is a UI challenge, designed purely for the purpose of practicing an
 
 ## App Screenshot
 
-![App Screenshot](challenge_image/splash1.png)
+![App Screenshot](challenge_image/splash2.png)
 *Splash Screen*
 
 ![Screenshot 1](challenge_image/ReadmeImage/onboarding.jpg)
